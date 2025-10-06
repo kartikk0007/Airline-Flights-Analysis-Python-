@@ -18,7 +18,7 @@ Matplotlib (plt): Used to create various visualizations, including bar graphs an
 
 Seaborn (sns): Utilized for drawing advanced categorical plots (catplot) and relational plots (relplot) to analyze price variations across airlines, classes, and cities
 
-# 
+# Key Analytical Insights
 The project successfully addressed several business questions through data cleaning, exploratory data analysis (EDA), and advanced filtering:
 
 1. Inverse Price-Lead Time Correlation: Identified a substantial inverse correlation between booking lead time and price. Tickets booked just 1 to 4 days before departure incurred the highest mean prices (₹30,000 for 2 days left), while tickets booked 49 days in advance averaged lower prices ₹18,000.

@@ -6,8 +6,8 @@ The primary goal of this project is to analyze a comprehensive flights booking d
 
 # Tools & Techonology 
 The entire analysis was performed in a Jupyter notebook environment, leveraging essential Python data science libraries:
-• Pandas (pd): Used extensively for data manipulation, cleaning (removing the unnecessary index column), statistical summaries (describe()), filtering, and grouping data (groupby()).
-• NumPy (np): Imported for numerical operations.
-• Matplotlib (plt): Used to create various visualizations, including bar graphs and subplots, to show frequencies of airlines and flight timings.
-• Seaborn (sns): Utilized for drawing advanced categorical plots (catplot) and relational plots (relplot) to analyze price variations across airlines, classes, and cities
+Pandas (pd): Used extensively for data manipulation, cleaning (removing the unnecessary index column), statistical summaries (describe()), filtering, and grouping data (groupby).
+NumPy (np): Imported for numerical operations.
+Matplotlib (plt): Used to create various visualizations, including bar graphs and subplots, to show frequencies of airlines and flight timings.
+Seaborn (sns): Utilized for drawing advanced categorical plots (catplot) and relational plots (relplot) to analyze price variations across airlines, classes, and cities
 
